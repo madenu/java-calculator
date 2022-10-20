@@ -1,3 +1,6 @@
+// Copyright (C) 2019 Matthias Denu & Steven Than
+// Just don't plagiarize us for your homework assignment.
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;

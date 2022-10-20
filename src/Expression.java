@@ -1,3 +1,6 @@
+// Copyright (C) 2019 Matthias Denu & Steven Than
+// Just don't plagiarize us for your homework assignment.
+
 /**
  * This interface represents a math expression that consists of binary operators and operands.
  */
